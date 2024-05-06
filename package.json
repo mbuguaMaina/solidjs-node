@@ -1,0 +1,19 @@
+{
+  "name": "martin maina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "",
+    "dev": "node api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solidjs/meta": "^0.29.3",
+    "express": "^4.19.2"
+  }
+}
